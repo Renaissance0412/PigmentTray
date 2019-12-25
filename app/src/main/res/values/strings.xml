@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">PigmentTray</string>
+    <string name="edit_message">这里是用户输入的相片简介，点击可以进行修改</string>
+    <string name="add_message">用户在此编辑备注信息</string>
 </resources>
